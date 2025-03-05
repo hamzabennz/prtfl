@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prtfl/static/css/main.0bc90805.css",
+    "main.js": "/prtfl/static/js/main.48e163d9.js",
+    "index.html": "/prtfl/index.html",
+    "main.0bc90805.css.map": "/prtfl/static/css/main.0bc90805.css.map",
+    "main.48e163d9.js.map": "/prtfl/static/js/main.48e163d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bc90805.css",
+    "static/js/main.48e163d9.js"
+  ]
+}
